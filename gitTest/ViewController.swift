@@ -16,6 +16,8 @@ class ViewController: UIViewController {
         print("I am a HYPE-Beast")
         
         print("Version 1.1 update")
+        
+        print("I am feature x")
     }
 
     override func didReceiveMemoryWarning() {
