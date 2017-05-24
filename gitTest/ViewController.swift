@@ -21,6 +21,11 @@ class ViewController: UIViewController {
         
         print("This service has no search function (bug z)")
     }
+    
+    func hypestBeastestFunction() {
+        print("This is legit amazing")
+        print("Why am I such a supreme beast")
+    }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
