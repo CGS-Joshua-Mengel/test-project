@@ -25,6 +25,8 @@ class ViewController: UIViewController {
     func hypestBeastestFunction() {
         print("This is legit amazing")
         print("Why am I such a supreme beast")
+        
+        print("hi")
     }
 
     override func didReceiveMemoryWarning() {
