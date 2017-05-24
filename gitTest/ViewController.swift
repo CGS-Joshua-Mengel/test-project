@@ -18,6 +18,8 @@ class ViewController: UIViewController {
         print("Version 1.1 update")
         
         print("I am feature x")
+        
+        print("This service has no search function (bug z)")
     }
 
     override func didReceiveMemoryWarning() {
