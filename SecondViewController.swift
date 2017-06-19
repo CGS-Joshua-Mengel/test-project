@@ -14,6 +14,12 @@ class SecondViewController: UIViewController {
         super.viewDidLoad()
         
         print("I will print when you load me!")
+        
+        let myFirstConstant = 1 + 1
+        
+        print(myFirstConstant)
+        
+        print("This is a great feature!")
 
         // Do any additional setup after loading the view.
     }
